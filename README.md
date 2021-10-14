@@ -1,2 +1,2 @@
 # hello-world
-just following the tutorial steps...
+nothing fancy here, just following the tutorial steps!
